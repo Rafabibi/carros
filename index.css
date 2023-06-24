@@ -18,8 +18,9 @@ a {
     text-decoration: none;
 }
 
-header {
+header a {
     font-size: 350px;
+    font-size: 50px
 }
 
 img {
