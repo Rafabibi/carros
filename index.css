@@ -20,7 +20,7 @@ a {
 }
 
 header {
-    font-size: 350px;
+    font-size: 250px;
     
 }
 
@@ -30,6 +30,4 @@ img {
     border: 5px solid red;
 }
 
-a {
-    font-size: 100px;
-}
+
